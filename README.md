@@ -54,7 +54,7 @@
 
 - 📧 Email: hashirabbasiweb@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/hashirabbasi](https://www.linkedin.com/in/hashirabbasi)  
-- 🌐 Portfolio: *fusionlogics.com*
+- 🌐 Portfolio: *zok-----.com*
 
 ---
 
