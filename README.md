@@ -11,7 +11,7 @@
 
 🎓 BS in Computer Science  
 📱 Meta Certified React Native Developer  
-💼 3+ years in Software Development  
+💼 4 years in Software Development  
 📲 2+ years in React Native Mobile Development  
 🌍 Specialized in Play Store optimization & user-centric mobile app delivery  
 
