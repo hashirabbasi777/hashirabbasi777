@@ -12,7 +12,7 @@
 🎓 BS in Computer Science  
 📱 Meta Certified React Native Developer  
 💼 4 years in Software Development  
-📲 2+ years in React Native Mobile Development  
+📲 2+ years in React Native Mobile Development, both iOS and Android. 
 🌍 Specialized in Play Store optimization & user-centric mobile app delivery  
 
 💡 I specialize in delivering high-quality mobile apps and modern web solutions that are functional, visually appealing, and scalable.
