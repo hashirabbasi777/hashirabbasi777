@@ -58,4 +58,4 @@
 
 ---
 
-⭐️ Feel free to check out my repositories and contributions. Let's build something amazing together!
+⭐️ Feel free to check out my repositories and contributions. Let's build something amazing together. Let's start!
